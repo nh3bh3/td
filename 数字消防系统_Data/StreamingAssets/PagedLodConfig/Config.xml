@@ -1,5 +1,5 @@
  <SystemLoadConfig>
-    <MainConfig threadCount = "3" coroutineCount = "10" expiryFrames = "3000000" webUrl = "localhost:8080/OsgbData/BaoLi/Data"/>
+    <MainConfig threadCount = "3" coroutineCount = "10" expiryFrames = "3000000" webUrl = "http://localhost:8080/OsgbData/BaoLi/Data"/>
     <CameraConfig TranslateTreshold = "1.0" RotateTreshold = "1.0" ZoomTreshold = "1.0"/>
 	<DataPathConfig>  
 	    <DataPath name ="OsgbData" path = "i:\TileFile\BaoLi\Data" isDaJiangData = "false" minLevel = "0" lodEnable ="true"/>
